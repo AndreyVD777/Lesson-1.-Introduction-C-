@@ -1,3 +1,4 @@
-﻿string username = Console.ReadLine();
-Console.WriteLine ("Privet, ");
-Console.WriteLine(username);
+﻿Console.Write("enter your name ");
+string username = Console.ReadLine();
+Console.Write ("Privet, ");
+Console.Write(username);
